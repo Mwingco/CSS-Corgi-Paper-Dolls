@@ -21,7 +21,9 @@
 
 /*luna*/
 .luna{
-    position: absolute;
+    position: sticky;
+    top: 0em;
+    left: 0em;
 }
 
 /*top hat*/
